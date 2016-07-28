@@ -1,4 +1,10 @@
-var viewer_div=$('.viewer');	
+/**
+ *
+ * @authors WangLi (1790676280@qq.com)
+ * @date    2016-07-28 11:14:06
+ * @version $Id$
+ */
+var viewer_div=$('.viewer');
 var destroy=$('[data-id="destroy"]');	//关闭按钮
 var big_img=$('[data-id="big_img"]');	//图片展示td
 var prew=$('[data-id="prev"]');	//图片展示部分--左按钮
